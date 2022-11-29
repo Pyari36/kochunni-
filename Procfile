@@ -1,1 +1,1 @@
-web: python3 mt_botz.py
+woker: python3 mt_botz.py
